@@ -20,16 +20,17 @@
         text-align:center;
     }
     audio {
-          display: flex;
+      display: flex;
 	  justify-content: center;
 	  align-items: center;
 	  margin-top: 25px;
 	  margin-bottom: 25px;
+      border-radius: 30px;
     }
 </style>
 <body>
     <br>
     <h1>Test - Test</h1>
-    <audio src="/track/1/test.mp3" type="audio/mpeg" controls>Oh, your browser doesn't support audio tag</audio>
-    <!--тут 33 строка всё время какого то хуя ломается я хз что с ней-->
+    <audio autoplay src="https://koke228.ru/static/audio/Poshlaja_Molli-2013_366.mp3" type="audio/mpeg" controls preload="metadata">Your browser doesn't support HTML5</audio>
+    <div style="font-weight: 600;"><a href="/">Back</a></div>
 </body>
