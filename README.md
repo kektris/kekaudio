@@ -1,7 +1,7 @@
 # kekaudio
 HTML5 implementation of basic streaming service, inspired by [AAudio](https://koke228.ru/anusaudio)
 ### Features
-- Upload files from another websites (look [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
+- Playback files from other websites (look inside [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
 - Easy customization with CSS
 ## This project has got a lot of shitcode, but it works fine
 Anyways, if you want to deploy it on your server, just `git clone` this repo and modify files as you like.
@@ -10,3 +10,4 @@ Anyways, if you want to deploy it on your server, just `git clone` this repo and
 ### List of instances
 - [KekAudio RU](https://u30.veliona.no/kekaudio)
 ### If you found any bags, open issue in this repo
+**And if you have got something to add, open pull request.**
