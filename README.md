@@ -9,6 +9,5 @@ Anyways, if you want to deploy it on your server, just `git clone` this repo and
 **If you don't want to deploy this project, then you can look at our instances!**
 ### List of instances
 - [KekAudio RU](https://u30.veliona.no/kekaudio)
-- [KekAudio Demo (not working properly)](https://kektris.github.io/kekaudio)
 ### If you found any bags, open issue in this repo
 **And if you have got something to add, open pull request.**
