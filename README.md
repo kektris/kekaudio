@@ -1,5 +1,5 @@
 # kekaudio
-HTML implementation of basic streaming service, inspired by [AAudio](https://koke228.ru/anusaudio)
+HTML5 implementation of basic streaming service, inspired by [AAudio](https://koke228.ru/anusaudio)
 ### Features
 - Upload files from another websites (look [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
 - Easy customization with CSS
