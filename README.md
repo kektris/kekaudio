@@ -9,6 +9,6 @@ Anyways, if you want to deploy it on your server, just `git clone` this repo and
 **If you don't want to deploy this project, then you can look at our instances!**
 ### List of instances
 - [KekAudio RU](https://u30.veliona.no/kekaudio)
-- [KekAudio for 3.ntv.ru](https://3.ntv.ru/public/files/11830523)
+- [KekAudio for 3.ntv.ru](http://3.ntv.ru/public/files/11830523)
 ### If you found any bags, open issue in this repo
 **And if you have got something to add, open pull request.**
