@@ -3,6 +3,7 @@ HTML5 implementation of basic streaming service, inspired by [AAudio](https://ko
 ### Features
 - Playback files from other websites (look inside [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
 - Easy customization with CSS
+- Includes metadata about instance
 ## This project has got a lot of shitcode, but it works fine
 Anyways, if you want to deploy it on your server, just `git clone` this repo and modify files as you like.
 
