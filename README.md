@@ -5,6 +5,7 @@ HTML5 implementation of basic streaming service, inspired by [AAudio](https://ko
 - Easy customization with CSS
 - Includes metadata about instance
 - Has its own, but buggy API (look inside [`kektris/kekaudio-api`](https://github.com/kektris/kekaudio-api))
+- Has addons, that can easily supplement your instance
 ## This project has got a lot of shitcode, but it works fine
 Anyways, if you want to deploy it on your server, just `git clone` this repo and modify files as you like.
 
