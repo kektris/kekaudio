@@ -3,7 +3,7 @@ HTML5 implementation of basic streaming service, inspired by [AAudio](https://ko
 ### Features
 - Playback files from other websites (look inside [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
 - Easy customization with CSS
-- Includes metadata about instance
+- Includes metadata about instance and about tracks
 - Has its own, but buggy API (look inside [`kektris/kekaudio-api`](https://github.com/kektris/kekaudio-api))
 - Has addons, that can easily supplement your instance
 ## This project has got a lot of shitcode, but it works fine
