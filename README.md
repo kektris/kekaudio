@@ -1,4 +1,4 @@
-# kekaudio
+# <img align="right" src="https://u30.veliona.no/kekaudio.png" alt="kekaudio" title="kekaudio" width="15%">KekAudio
 HTML5 implementation of basic streaming service, inspired by [AAudio](https://koke228.ru/anusaudio)
 ### Features
 - Playback files from other websites (look inside [`/track/1/index.html`](https://github.com/kektris/kekaudio/blob/main/track/1/index.html))
